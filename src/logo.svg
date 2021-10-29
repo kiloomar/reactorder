@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="404" height="165" viewBox="0 0 404 165">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 125px;
+        font-family: "Source Serif Variable";
+        font-weight: 300;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        text-anchor: middle;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 200px;
+        font-family: "Book Antiqua";
+      }
+
+      .cls-3 {
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="read" class="cls-1" x="241.976" y="137.176"><tspan x="241.976">read</tspan></text>
+  <text id="T" class="cls-2" x="77.598" y="138.408"><tspan x="77.598">T</tspan></text>
+  <text id="____" class="cls-3" x="201.991" y="139.701"><tspan x="201.991">____</tspan></text>
+</svg>
